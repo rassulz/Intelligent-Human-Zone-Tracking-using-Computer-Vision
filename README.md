@@ -91,7 +91,7 @@ A real-time safety monitoring system for hazardous industrial zones that detects
 
 * **Detection accuracy:** mAP₅₀ > 92%
 * **Real-time performance:** ≈25 FPS on RTX 2060
-* **Demo Video:** [YouTube Link](https://youtu.be/your-demo-link)
+* **Demo Video:** [YouTube Link](https://www.youtube.com/watch?v=-YawH-9Wrs8)
 
 ![Dashboard Screenshot](docs/dashboard_screenshot.png)
 
