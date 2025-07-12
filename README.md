@@ -1,4 +1,4 @@
-````markdown
+
 # Intelligent Human-Zone Tracking using Computer Vision
 
 A real-time safety monitoring system for hazardous industrial zones that detects people, verifies safety-vest compliance, and tracks dwell-time in danger areas—raising instant alerts when safety rules are violated.
@@ -40,7 +40,7 @@ A real-time safety monitoring system for hazardous industrial zones that detects
    ```bash
    git clone https://github.com/your-username/human-zone-tracking.git
    cd human-zone-tracking
-````
+
 
 2. **Create & activate a virtual environment**
 
